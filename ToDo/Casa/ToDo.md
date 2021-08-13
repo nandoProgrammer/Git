@@ -1,15 +1,19 @@
-## Fazer Hoje
+## Fazer Hoje 
 
-### Lavar a louça do Almoço
+### Lavar a louça do Almoço  -- x --
 
-### Consertar a pia
+### Consertar a pia  
 
-### Pagar a luz
+### Pagar a luz  -- x --
 
-### Pagar a água
+### Pagar a água  -- x --
 
-### Pagar a Internet
+### Pagar a Internet -- x --
 
-### Lavar a louça do Jantar
+### Lavar a louça do Jantar -- x --
 
 
+
+## Fazer Amanhã
+
+### Consertar a pia  
